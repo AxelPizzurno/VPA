@@ -1,0 +1,101 @@
+
+/* HEADER */
+
+
+
+
+.contenedor_logo{
+
+
+
+}
+
+.logo{
+
+max-width: 200px;
+
+}
+
+.coli {
+
+ color: rgb(0, 0, 0);
+
+}
+
+
+
+.slider {
+
+
+    background-color: grey;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+}
+
+
+
+.novedades {
+
+text-align: center;
+
+}
+
+.cuadrado1 {
+
+    display: inline-block;
+height: 250px;
+width: 250px;
+
+
+
+
+}
+
+.cuadrado1 img {
+
+
+width: 200px;
+
+}
+
+.videos {
+
+text-align: center;
+
+
+}
+
+/* inicio de footer */
+
+.social {
+
+   display: inline-block;
+height: 250px;
+width: 250px;
+
+text-align:center;
+
+
+}
+
+.social a {
+
+  display: block;
+
+
+}
+
+footer {
+    border-top: 10px black solid;
+        margin-top:  160px;
+ text-align: right;
+
+}
+
+.culo {
+
+text-align: left;
+
+}
+
