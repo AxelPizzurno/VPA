@@ -61,3 +61,37 @@ text-align: center;
 
 
 }
+
+/* inicio de footer */
+
+.social {
+
+   display: inline-block;
+height: 250px;
+width: 250px;
+
+text-align:center;
+
+
+}
+
+.social a {
+
+  display: block;
+
+
+}
+
+footer {
+    border-top: 10px black solid;
+        margin-top:  160px;
+ text-align: right;
+
+}
+
+.culo {
+
+text-align: left;
+
+}
+
